@@ -1,0 +1,60 @@
+
+
+
+
+img{
+	width: 300px;
+	height: 200px;
+	margin: auto;
+	padding-bottom: 10px;	
+
+}
+/*italicized text for the animal's interesting fac*/
+#GFact{
+	font-style: italic;
+}
+/*bolded labels for the animal's list items*/
+.boldy{
+	font-weight: bold;
+	
+}
+/*no dots for the animal's list items*/
+#list{
+	list-style: none;
+	padding: 0;
+}
+/*border around the animal's name, image, and information*/
+
+.OutherCardParentBox{
+	border: 2px solid #708090;
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+
+	font-family: Roboto,verdana, serif;
+	font-size: 14px;
+	color: #a52a2a;
+
+	width: 300px;
+	height: auto;
+	margin: auto;
+	padding: 1.5em;
+
+	-webkit-box-shadow: 10px 10px 9px -6px rgba(171,166,171,1);
+	-moz-box-shadow: 10px 10px 9px -6px rgba(171,166,171,1);
+	box-shadow: 12px 12px 9px -6px rgba(171,166,171,1);
+	background-image: linear-gradient(to bottom, #ede7d8, #d5e3cb, #b0e1d0, #8cdbe5, #87cefa);
+
+
+}
+/*border around the animal's information*/
+.InnerCardBox{
+	margin: 0px;
+	padding: 10px;
+	border-radius: 3px 3px 6px 3px;
+	-moz-border-radius: 3px 3px 13px 13px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border: 2px solid #708090;
+}
+
+
