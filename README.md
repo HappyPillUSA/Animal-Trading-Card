@@ -21,9 +21,8 @@ Page resembles card from design prototype.
 
 ### Program Test
 
-### [Click here to see my fav animal card] (https://github.com/HappyPillUSA/Animal-Trading-Card/blob/master/Screen%20Shot%202019-04-07%20at%209.47.18%20PM.png)
-
-
+### [Click here to see my fav animal card](Screen Shot 2019-04-07 at 9.47.18 PM.png
+)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
