@@ -21,8 +21,7 @@ Page resembles card from design prototype.
 
 ### Program Test
 
-### [Click here to see my fav animal card]
-
+### [Click here to see my fav animal card] (https://github.com/HappyPillUSA/Animal-Trading-Card/blob/master/Screen%20Shot%202019-04-07%20at%209.47.18%20PM.png)
 
 
 ## License
@@ -31,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-To my dearest family that contribute to my giraffes collections
+To my dearest family that always contribute to my giraffes collections
 
 
 
