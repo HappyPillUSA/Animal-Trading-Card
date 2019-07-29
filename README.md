@@ -6,11 +6,10 @@ A web page re-creation from a design prototype.Udacity provides the design proto
  
 The design prototype used in this project is inspired by trading cards and features a fish from a popular animated film.the main task is to create the card and swapping the fish with my favorite animal 
 
-### Project Instruccion
+### Project Instruccions
 
-Download and unzidhttps://github.com/udacity/animal-trading-cards/archive/master.zip
-
-
+Download and unzid: [animal-trading-cards-master.zip](https://github.com/udacity/animal-trading-cards/archive/master.zip
+)
 ## Tecnology Used
   + HTML5
   + CSS
