@@ -1,6 +1,16 @@
+/*color Palette
+#708090; slateGray
+#a52a2a; brown
+#ede7d8; muzli
+#d5e3cb; pixieGreen
+#b0e1d0; lightBlue
+#8cdbe; irisBlue
+#87cefa);lightSkyBlue
+*/
 
 
-
+/* Global styles
+-------------------------*/
 
 img{
 	width: 300px;
@@ -23,7 +33,12 @@ img{
 	list-style: none;
 	padding: 0;
 }
-/*border around the animal's name, image, and information*/
+
+
+
+/* outherBox styles
+-------------------------*/
+
 
 .OutherCardParentBox{
 	border: 2px solid #708090;
@@ -47,7 +62,8 @@ img{
 
 
 }
-/*border around the animal's information*/
+/* innerBox styles
+-------------------------*/
 .InnerCardBox{
 	margin: 0px;
 	padding: 10px;
